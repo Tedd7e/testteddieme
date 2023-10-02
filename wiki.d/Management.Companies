@@ -1,0 +1,18 @@
+version=pmwiki-2.3.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1690371593
+host=62.232.248.77
+name=Management.Companies
+rev=2
+targets=
+text=manage/companies
+time=1690371646
+author:1690371646=
+diff:1690371646:1690371593:=1c1%0a%3c manage/companies%0a\ No newline at end of file%0a---%0a> management/companies%0a\ No newline at end of file%0a
+host:1690371646=62.232.248.77
+author:1690371593=
+diff:1690371593:1690371593:=1d0%0a%3c management/companies%0a\ No newline at end of file%0a
+host:1690371593=62.232.248.77

@@ -1,0 +1,17 @@
+version=pmwiki-2.3.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+author=
+charset=UTF-8
+csum=
+host=62.232.248.77
+name=Main.WikiSandbox
+rev=5
+targets=PmWiki.TextFormattingRules,PmWiki.PmWiki,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog
+text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0aWelcome to PmWiki!%0a%0aA local copy of PmWiki's documentation has been installed along with the software, and is available via the documentation index.%0a%0aTo continue setting up PmWiki, see initial setup tasks.%0a%0aThe basic editing page describes how to create pages in PmWiki. You can practice editing in the wiki sandbox.%0a%0aMore information about PmWiki is available from https://www.pmwiki.org.%0a%0aOld SideBar%0a* [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]
+time=1690369590
+author:1690369590=
+diff:1690369590:1690369566:=4,12d3%0a%3c Welcome to PmWiki!%0a%3c %0a%3c A local copy of PmWiki's documentation has been installed along with the software, and is available via the documentation index.%0a%3c %0a%3c To continue setting up PmWiki, see initial setup tasks.%0a%3c %0a%3c The basic editing page describes how to create pages in PmWiki. You can practice editing in the wiki sandbox.%0a%3c %0a%3c More information about PmWiki is available from https://www.pmwiki.org.%0a
+host:1690369590=62.232.248.77
+author:1690369566=
+diff:1690369566:1093548433:=3,13d2%0a%3c %0a%3c %0a%3c Old SideBar%0a%3c * [[PmWiki/PmWiki]]%0a%3c * [[PmWiki/Initial Setup Tasks]]  %0a%3c * [[PmWiki/Basic Editing]]%0a%3c * [[PmWiki/Documentation Index]]%0a%3c * [[PmWiki/FAQ | PmWiki FAQ ]]%0a%3c * [[PmWiki/PmWikiPhilosophy]]%0a%3c * [[PmWiki/Release Notes]]%0a%3c * [[PmWiki/ChangeLog]]%0a\ No newline at end of file%0a
+host:1690369566=62.232.248.77

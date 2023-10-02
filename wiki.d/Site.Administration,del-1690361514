@@ -1,0 +1,24 @@
+version=pmwiki-2.3.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1690359984
+host=62.232.248.77
+name=Site.Administration
+rev=4
+targets=Site.Users,Site.UserPermissions
+text=* [[Users]]%0a* [[User Permissions]]
+time=1690360162
+author:1690360162=
+diff:1690360162:1690360147:=1,2c1,2%0a%3c * [[Users]]%0a%3c * [[User Permissions]]%0a\ No newline at end of file%0a---%0a> [[Users]]\n%0a> [[User Permissions]]%0a\ No newline at end of file%0a
+host:1690360162=62.232.248.77
+author:1690360147=
+diff:1690360147:1690360140:=1c1%0a%3c [[Users]]\n%0a---%0a> [[Users]]%0a
+host:1690360147=62.232.248.77
+author:1690360140=
+diff:1690360140:1690359984:=1,2c1%0a%3c [[Users]]%0a%3c [[User Permissions]]%0a\ No newline at end of file%0a---%0a> [[Users]]%0a\ No newline at end of file%0a
+host:1690360140=62.232.248.77
+author:1690359984=
+diff:1690359984:1690359984:=1d0%0a%3c [[Users]]%0a\ No newline at end of file%0a
+host:1690359984=62.232.248.77

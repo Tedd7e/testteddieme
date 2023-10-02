@@ -1,0 +1,23 @@
+version=pmwiki-2.3.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+author=
+charset=UTF-8
+csum=
+host=62.232.248.77
+name=Main.WikiSandbox
+rev=7
+targets=PmWiki.TextFormattingRules,PmWiki.PmWiki,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.MailingLists,PmWiki.ReleaseNotes,PmWiki.ChangeLog
+text=Admins Only!!!!!!%0a%0aFeel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a----%0a%0aWelcome to PmWiki!%0a%0aA local copy of PmWiki's documentation has been installed along with the software, and is available via the documentation index.%0a%0aTo continue setting up PmWiki, see initial setup tasks.%0a%0a%0aThe basic editing page describes how to create pages in PmWiki. You can practice editing in the wiki sandbox.%0a%0aMore information about PmWiki is available from https://www.pmwiki.org.%0a%0aOld SideBar Info%0a* [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a%0a[[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Cookbook | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]
+time=1690387384
+author:1690387384=
+diff:1690387384:1690371315:=24,29d23%0a%3c %0a%3c [[http://www.pmwiki.org | pmwiki.org ]]%0a%3c * [[Cookbook:Cookbook | Cookbook (addons) ]]%0a%3c * [[Cookbook:Skins | Skins (themes) ]]%0a%3c * [[PITS:PITS | PITS (issue tracking) ]]%0a%3c * [[PmWiki/Mailing Lists]]%0a
+host:1690387384=62.232.248.77
+author:1690371315=
+diff:1690371315:1690371288:=7d6%0a%3c %0a9d7%0a%3c %0a11,12d8%0a%3c %0a%3c %0a14d9%0a%3c %0a
+host:1690371315=62.232.248.77
+author:1690371288=
+diff:1690371288:1690371227:=5,20d4%0a%3c %0a%3c Welcome to PmWiki!%0a%3c A local copy of PmWiki's documentation has been installed along with the software, and is available via the documentation index.%0a%3c To continue setting up PmWiki, see initial setup tasks.%0a%3c The basic editing page describes how to create pages in PmWiki. You can practice editing in the wiki sandbox.%0a%3c More information about PmWiki is available from https://www.pmwiki.org.%0a%3c %0a%3c Old SideBar Info%0a%3c * [[PmWiki/PmWiki]]%0a%3c * [[PmWiki/Initial Setup Tasks]]  %0a%3c * [[PmWiki/Basic Editing]]%0a%3c * [[PmWiki/Documentation Index]]%0a%3c * [[PmWiki/FAQ | PmWiki FAQ ]]%0a%3c * [[PmWiki/PmWikiPhilosophy]]%0a%3c * [[PmWiki/Release Notes]]%0a%3c * [[PmWiki/ChangeLog]]%0a\ No newline at end of file%0a
+host:1690371288=62.232.248.77
+author:1690371227=
+diff:1690371227:1093548433:=1,2d0%0a%3c Admins Only!!!!!!%0a%3c %0a
+host:1690371227=62.232.248.77

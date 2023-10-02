@@ -1,0 +1,27 @@
+version=pmwiki-2.3.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1690297810
+host=62.232.248.77
+name=Main.NewPage
+rev=5
+targets=
+text=!!Heading%0a%0a!!!Subheading%0a%0atext %0a%0a%0a[[https://teddie.me.uk|Teddie]]
+time=1690297869
+author:1690297869=
+diff:1690297869:1690297850:=8c8%0a%3c [[https://teddie.me.uk|Teddie]]%0a\ No newline at end of file%0a---%0a> [[test.teddie.me.uk]]%0a\ No newline at end of file%0a
+host:1690297869=62.232.248.77
+author:1690297850=
+diff:1690297850:1690297841:=8c8%0a%3c [[test.teddie.me.uk]]%0a\ No newline at end of file%0a---%0a> [[teddie.me.uk]]%0a\ No newline at end of file%0a
+host:1690297850=62.232.248.77
+author:1690297841=
+diff:1690297841:1690297833:=8c8%0a%3c [[teddie.me.uk]]%0a\ No newline at end of file%0a---%0a> [[teddie.me.uk|Teddie]]%0a\ No newline at end of file%0a
+host:1690297841=62.232.248.77
+author:1690297833=
+diff:1690297833:1690297810:=8c8%0a%3c [[teddie.me.uk|Teddie]]%0a\ No newline at end of file%0a---%0a> [[teddie.me.uk | Teddie]]%0a\ No newline at end of file%0a
+host:1690297833=62.232.248.77
+author:1690297810=
+diff:1690297810:1690297810:=1,8d0%0a%3c !!Heading%0a%3c %0a%3c !!!Subheading%0a%3c %0a%3c text %0a%3c %0a%3c %0a%3c [[teddie.me.uk | Teddie]]%0a\ No newline at end of file%0a
+host:1690297810=62.232.248.77

@@ -1,0 +1,18 @@
+version=pmwiki-2.3.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+author=
+charset=UTF-8
+csum=
+ctime=1690360818
+host=62.232.248.77
+name=Main.Administration
+rev=2
+targets=
+text=main/admin
+time=1690361620
+author:1690361620=
+diff:1690361620:1690360818:=1c1%0a%3c main/admin%0a\ No newline at end of file%0a---%0a> test%0a\ No newline at end of file%0a
+host:1690361620=62.232.248.77
+author:1690360818=
+diff:1690360818:1690360818:=1d0%0a%3c test%0a\ No newline at end of file%0a
+host:1690360818=62.232.248.77
